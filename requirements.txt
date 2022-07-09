@@ -1,0 +1,7 @@
+aiohttp==3.8.1
+aiohttp-proxy==0.1.2
+aiofiles==0.8.0
+pyuseragents==1.0.5
+loguru==0.5.3
+capmonster-python==2.2
+imap-tools==0.55.0
